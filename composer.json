@@ -1,0 +1,30 @@
+{
+	"name" : "sn01615/rand_string",
+	"description" : "Php random string  generator.",
+	"type" : "library",
+	"license" : "GPL-3.0",
+	"authors" : [{
+			"name" : "YangLong",
+			"email" : "168119405@qq.com"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"PhpUtils\\" : "src"
+		}
+	},
+	"support" : {
+		"source" : "https://github.com/sn01615/RandString",
+		"issues" : "https://github.com/sn01615/RandString/issues",
+		"email" : "168119405@qq.com"
+	},
+	"keywords" : [
+		"random string"
+	],
+	"repositories" : [{
+			"type" : "git",
+			"url" : "git@github.com:sn01615/FileLock.git",
+			"name" : "GitHub"
+		}
+	]
+}

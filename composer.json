@@ -23,7 +23,7 @@
 	],
 	"repositories" : [{
 			"type" : "git",
-			"url" : "git@github.com:sn01615/FileLock.git",
+			"url" : "git@github.com:sn01615/RandString.git",
 			"name" : "GitHub"
 		}
 	]
